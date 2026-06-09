@@ -25,18 +25,20 @@ It includes building ML systems with proper engineering, deployment, and monitor
 ---
 
 ## 📁 Project Structure
-'''mlps-trip/
-├── data
-│   ├── raw/           ← Original raw data
-│   ├── interim/       ← Intermediate data
-│   └── processed/     ← Cleaned data ready for modeling
-├── notebooks/         ← Jupyter notebooks for exploration
-├── src/               ← Production-ready Python code
-├── reports/           ← Generated reports and analysis
-├── figures/           ← Saved plots and visualizations
-├── docs/              ← Documentation
+```text
+mlps-trip/
+├── data/
+│   ├── raw/
+│   ├── interim/
+│   └── processed/
+├── notebooks/
+├── src/
+├── reports/
+├── figures/
+├── docs/
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
