@@ -25,8 +25,8 @@ It includes building ML systems with proper engineering, deployment, and monitor
 ---
 
 ## 📁 Project Structure
-mlps-trip/
-├── data/
+'''mlps-trip/
+├── data
 │   ├── raw/           ← Original raw data
 │   ├── interim/       ← Intermediate data
 │   └── processed/     ← Cleaned data ready for modeling
