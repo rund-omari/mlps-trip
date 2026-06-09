@@ -1,19 +1,19 @@
-# MLOps Journey 🚀
+# MLOps Journey 
 
-## 📌 Project Overview
+##  Project Overview
 This project is a structured learning journey to master MLOps from zero to production level.
 It includes building ML systems with proper engineering, deployment, and monitoring practices.
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Learn MLOps concepts step by step
 - Build production-ready ML pipelines
 - Apply best practices used in real companies
 
 ---
 
-## 🧠 What I will learn
+##  What I will learn
 - Software Engineering for ML
 - Docker & Containers
 - MLflow (Experiment Tracking)
@@ -40,13 +40,13 @@ mlps-trip/
 
 ---
 
-## 📅 Progress
+##  Progress
 - Week 1: Setup + Git + Project Structure
 - Week 2: (Coming soon...)
 
 ---
 
-## ⚙️ How to run this project
+##  How to run this project
 ```bash
 git clone <repo-link>
 cd mlops-journey
